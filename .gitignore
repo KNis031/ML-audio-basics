@@ -1,0 +1,8 @@
+# Ignore any folder named "data" anywhere
+**/data/
+
+# Ignore model or path files
+*.pth
+
+# Ignore macOS Finder junk
+.DS_Store
