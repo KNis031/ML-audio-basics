@@ -6,3 +6,6 @@
 
 # Ignore macOS Finder junk
 .DS_Store
+
+**/__pycache__/
+*.pyc
